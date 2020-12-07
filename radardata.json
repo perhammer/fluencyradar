@@ -1,0 +1,89 @@
+{
+	"sections": [
+		{
+			"heading": "Portfolio Maturity",
+			"colour": "#0000CC",
+			"subcolour": "#0000FF",
+			"subsections": [
+				{
+					"heading": "Demand Mgmt.",
+					"entries": [
+						{ "name": "Vision & Strategy", "score": 40 },
+						{ "name": "Alignment", "score": 40 },
+						{ "name": "Backlog Clarity", "score": 50 },
+						{ "name": "Breakdown & Sizing", "score": 30 },
+						{ "name": "Prioritization & Ranking", "score": 35 },
+						{ "name": "Value Measurement", "score": 30 }
+					]
+				},
+				{
+					"heading": "Capacity Mgmt.",
+					"entries": [
+						{ "name": "Team Visibility", "score": 45 },
+						{ "name": "Capacity & Throughput", "score": 33 },
+						{ "name": "Cost & Budgeting", "score": 28 }
+					]
+				},
+				{
+					"heading": "Governance",
+					"entries": [
+						{ "name": "Lean Process", "score": 30 },
+						{ "name": "Inspect & Adapt", "score": 45 },
+						{ "name": "Impediment Ownership", "score": 30 },
+						{ "name": "Roles & Ceremonies", "score": 45 },
+						{ "name": "Tracking & Reporting", "score": 50 }
+					]
+				}
+			]
+		},
+		{
+			"heading": "Culture",
+			"colour": "#990099",
+			"subcolour": "#9900CC",
+			"subsections": [
+				{
+					"heading": "Culture",
+					"entries": [
+						{ "name": "Cross-functional Collaboration", "score": 20 },
+						{ "name": "Servant Leadership", "score": 23 },
+						{ "name": "Trust and Respect", "score": 22 },
+						{ "name": "Sustainable Pace", "score": 24 }
+					]
+				}
+			]
+		},
+		{
+			"heading": "Delivery Health",
+			"colour": "#FF9900",
+			"subcolour": "#FF9933",
+			"subsections": [
+				{
+					"heading": "Predictable Delivery",
+					"entries": [
+						{ "name": "Predictability", "score": 25 },
+						{ "name": "Time to Market", "score": 22 },
+						{ "name": "Quality", "score": 33 },
+						{ "name": "Response to Change", "score": 27 },
+						{ "name": "Agile Maturity", "score": 22 }
+					]
+				}
+			]
+		},
+		{
+			"heading": "Technical Health",
+			"colour": "#CC33CC",
+			"subcolour": "#CC33FF",
+			"subsections": [
+				{
+					"heading": "Technical Environment",
+					"entries": [
+						{ "name": "Build Infrastructure", "score": 30 },
+						{ "name": "Automated Testing", "score": 30 },
+						{ "name": "Deployment Infra.", "score": 20 },
+						{ "name": "Experiment Infra.", "score": 24 }
+					]
+				}
+			]
+		}
+	]
+}
